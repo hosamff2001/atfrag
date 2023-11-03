@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-##Conclusion
+## Conclusion
 
 The Flutter Movies App is a comprehensive and user-friendly app for movie lovers. It is built using the latest Flutter packages and provides a wealth of features to help you manage your movie watching experience. If you are looking for a complete and feature-rich movie app, then the Flutter Movies App is the perfect choice for you.
 
